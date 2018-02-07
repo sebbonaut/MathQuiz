@@ -1,0 +1,9 @@
+D:\Shared\rp3vjezbe\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+D:\Shared\rp3vjezbe\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+D:\Shared\rp3vjezbe\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+D:\Shared\rp3vjezbe\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojResolveAssemblyReference.cache
+D:\Shared\rp3vjezbe\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+D:\Shared\rp3vjezbe\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+D:\Shared\rp3vjezbe\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.Cache
+D:\Shared\rp3vjezbe\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+D:\Shared\rp3vjezbe\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
